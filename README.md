@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Code-Tomato
-- 👀 I’m interested in making video games or any projects that will advance my skills. 
-- 🌱 I’m currently learning Python, C# and C++.
+- 👀 I’m interested in making any projects that will advance my skills. 
+- 🌱 I’m currently learning Python and C++.
 - 💞️ I’m looking to collaborate on small projects.
 - 📫 How to reach me ➤ email: nlemma100@gmail.com
 
