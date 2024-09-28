@@ -2,7 +2,7 @@
 - 👀 I’m interested in making any projects that will advance my skills. 
 - 🌱 I’m currently learning Python and C++.
 - 💞️ I’m looking to collaborate on small projects.
-- 📫 How to reach me ➤ email: nlemma100@gmail.com
+- 📫 How to reach me ➤ Send a DM
 
 <!---
 Code-Tomato/Code-Tomato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
